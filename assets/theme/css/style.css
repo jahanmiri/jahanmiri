@@ -923,3 +923,13 @@ blockquote {
 	top: 0;
 	left: -2400px;
 }
+
+.navbar-caption{
+  padding-right:1em;
+  text-align: right;
+}
+.text-wrapper{
+text-align: right !important;
+
+
+}
